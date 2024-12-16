@@ -1,0 +1,8 @@
+- 👋 Hi, I’m Vimal Chaudhary
+- 👀 I’m interested in Android app development and Data structure and algorithms
+- 🌱 I’m currently learning android development with Kotlin
+- 💞️ I’m looking for internship in android app development
+- 📫 You can reach me on telegram :) @The_deadMad
+-    and on LinkedIn :)
+- 👾 My Hobby is Ethical hacking.
+- 🌐 Im also a Telegram bot developer
