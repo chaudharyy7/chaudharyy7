@@ -52,7 +52,7 @@
 ## 📊 GitHub Stats  
 
 <p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=chaudharyy7&show_icons=true&theme=radical" alt="Vimal's GitHub Stats" width="48%"/>  
+  <img src="https://github-readme-stats.vercel.app/api?username=chaudharyy7&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaudharyy7&theme=radical" alt="GitHub Streak" width="48%"/>  
 </p>  
 
