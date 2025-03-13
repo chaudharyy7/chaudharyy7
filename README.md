@@ -7,6 +7,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A005&width=435&lines=Android+Developer+%7C+DSA+Enthusiast;Kotlin+%7C+FastAPI+%7C+Python;Data Structure & Algorithm;Telegram+Bot+Developer;Cybersecurity+and+Ethical+Hacking;Always+learning+new+things!+%F0%9F%9A%80" alt="Typing SVG" />  
 </p>  
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chaudharyy7&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/chaudharyy7?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/chaudharyy7?label=Stars&style=social" alt="GitHub Stars" />
+</p>
+
 ---
 
 ## 👨‍💻 About Me  
@@ -29,6 +35,16 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>  
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>  
+</p>  
+
+---
+
+## 🏆 GitHub Achievements  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chaudharyy7&theme=radical&no-bg=true&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>  
 
 ---
@@ -52,6 +68,7 @@
   <a href="mailto:vimal07chaudhary@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
   <a href="https://t.me/The_deadMad"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>  
   <a href="https://www.linkedin.com/in/vimal-chaudhary-993303326"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
+  <a href="https://github.com/chaudharyy7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>  
 </p>  
 
 ---
