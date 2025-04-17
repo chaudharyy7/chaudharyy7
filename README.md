@@ -29,19 +29,19 @@
 ## 🚀 Tech Stack & Tools  
 
 <p align="center">  
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/RestAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Retrofit-007396?style=for-the-badge&logo=android&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Volley-4285F4?style=for-the-badge&logo=android&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>  
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>  
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>  
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>  
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="Jetpack Compose"/>  
+  <img src="https://img.shields.io/badge/RestAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="RestAPI"/>  
+  <img src="https://img.shields.io/badge/Retrofit-007396?style=for-the-badge&logo=android&logoColor=white" alt="Retrofit"/>  
+  <img src="https://img.shields.io/badge/Volley-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="Volley"/>  
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>  
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>  
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>  
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>  
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>  
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>  
 </p>  
 
 ---
@@ -49,11 +49,11 @@
 ## 🧩 Familiar With  
 
 <p align="center">  
-  <img src="https://img.shields.io/badge/Firebase%20Studio-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>  
-  <img src="https://img.shields.io/badge/XML-E44D26?style=for-the-badge&logo=xml&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Room%20DB-007ACC?style=for-the-badge&logo=sqlite&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Telegram%20Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Firebase%20Studio-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Studio"/>  
+  <img src="https://img.shields.io/badge/XML-E44D26?style=for-the-badge&logo=xml&logoColor=white" alt="XML"/>  
+  <img src="https://img.shields.io/badge/Room%20DB-007ACC?style=for-the-badge&logo=sqlite&logoColor=white" alt="Room DB"/>  
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>  
+  <img src="https://img.shields.io/badge/Telegram%20Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot"/>  
 </p>  
 
 ---
@@ -82,11 +82,11 @@
 ## 🌍 Connect With Me  
 
 <p align="center">  
-  <a href="mailto:vimal07chaudhary@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
-  <a href="https://t.me/The_deadMad"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>  
-  <a href="https://www.linkedin.com/in/vimal-chaudhary-993303326"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
-  <a href="https://github.com/chaudharyy7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>  
-  <a href="https://www.instagram.com/__.chaudhary07.__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>  
+  <a href="mailto:vimal07chaudhary@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>  
+  <a href="https://t.me/The_deadMad"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>  
+  <a href="https://www.linkedin.com/in/vimal-chaudhary-993303326"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>  
+  <a href="https://github.com/chaudharyy7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>  
+  <a href="https://www.instagram.com/__.chaudhary07.__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>  
 </p>  
 
 ---
@@ -99,4 +99,4 @@
 
 ---
 
-🌟 **Thanks for visiting!** If you like my work, feel free to **star ⭐ my repositories!** 🚀  
+🌟 **Thanks for visiting!** If you like my work, feel free to **star ⭐ my repositories!** 🚀
