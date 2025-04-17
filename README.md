@@ -46,18 +46,6 @@
 
 ---
 
-## 🧩 Familiar With  
-
-<p align="center">  
-  <img src="https://img.shields.io/badge/Firebase%20Studio-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Studio"/>  
-  <img src="https://img.shields.io/badge/XML-E44D26?style=for-the-badge&logo=xml&logoColor=white" alt="XML"/>  
-  <img src="https://img.shields.io/badge/Room%20DB-007ACC?style=for-the-badge&logo=sqlite&logoColor=white" alt="Room DB"/>  
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>  
-  <img src="https://img.shields.io/badge/Telegram%20Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot"/>  
-</p>  
-
----
-
 ## 🏆 GitHub Achievements  
 
 <p align="center">
