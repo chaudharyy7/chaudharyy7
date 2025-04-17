@@ -28,8 +28,6 @@
 
 ## 🚀 Tech Stack & Tools  
 
-## 🚀 Tech Stack & Tools  
-
 <p align="center">  
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>  
@@ -44,7 +42,19 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>  
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>  
-</p> 
+</p>  
+
+---
+
+## 🧩 Familiar With  
+
+<p align="center">  
+  <img src="https://img.shields.io/badge/Firebase%20Studio-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>  
+  <img src="https://img.shields.io/badge/XML-E44D26?style=for-the-badge&logo=xml&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Room%20DB-007ACC?style=for-the-badge&logo=sqlite&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Telegram%20Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>  
+</p>  
 
 ---
 
