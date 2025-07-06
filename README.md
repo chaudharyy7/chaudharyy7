@@ -18,7 +18,7 @@
 ## 👨‍💻 About Me  
 
 - 👀 Passionate about **Android app development** and **GenAI**.  
-- 🌱 Currently learning **Android Development with Kotlin**.  
+- 🌱 Currently learning **Android Development with Kotlin** and **GenAI with Javascript**.  
 - 🚀 Seeking an **internship in Android app development** to gain hands-on experience.  
 - 👾 **Ethical hacking** is my hobby—I love **exploring cybersecurity**!  
 - 🤖 I also develop **Telegram bots** for automation & fun projects.  
