@@ -4,7 +4,7 @@
 </h1>  
 
 <p align="center">  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A005&width=435&lines=Android+Developer+%7C+DSA+Enthusiast" alt="Typing SVG" />  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A005&width=435&lines=Android+Developer+%7C+GenAI" alt="Typing SVG" />  
 </p>  
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me  
 
-- 👀 Passionate about **Android app development** and **Data Structures & Algorithms**.  
+- 👀 Passionate about **Android app development** and **GenAI**.  
 - 🌱 Currently learning **Android Development with Kotlin**.  
 - 🚀 Seeking an **internship in Android app development** to gain hands-on experience.  
 - 👾 **Ethical hacking** is my hobby—I love **exploring cybersecurity**!  
